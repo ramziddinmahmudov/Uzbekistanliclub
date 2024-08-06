@@ -1,0 +1,195 @@
+{
+    "profile":[
+        {
+            "img":"./profile1.jpg",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./profile2.jpg",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./profile3.jpg",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./profile4.jpg",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./profile5.jpg",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./profile6.jpg",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        }
+    ],
+    "masterresident":[
+        {
+            "img":"./master1.jpg"
+        },
+        {
+            "img":"./master2.jpg"
+        },
+        {
+            "img":"./master3.jpg"
+        },
+        {
+            "img":"./master5.jpg"
+        },
+        {
+            "img":"./master7.jpg"
+        },
+        {
+            "img":"./master8.jpg"
+        }
+    ],
+    "partners":[
+        {
+            "img":"part1.png"
+        },
+        {
+            "img":"part2.png"
+        },
+        {
+            "img":"part3.png"
+        }
+    ],
+    "about":[
+        {
+            "img":"about1.jpg",
+            "name":"Alisher Sa'dullayev",
+            "des":"Director the YAA"
+        },
+        {
+            "img":"about2.jpg",
+            "name":"Muhlisa Azizova",
+            "des":"Director the ART"
+        },
+        {
+            "img":"about3.jpg",
+            "name":"Oybek Abdushukurov",
+            "des":"Director the ART"
+        },
+        {
+            "img":"about4.jpg",
+            "name":"Nkite Makeronko",
+            "des":"Director the ART"
+        }
+    ],
+    "master":[
+        {
+            "img":"./master1.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./master2.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./master3.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./master1.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./master2.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./master3.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./master1.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },
+        {
+            "img":"./master2.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        },        
+        {
+            "img":"./master3.jpg",
+            "name":"Asqarali Qahramanov",
+            "description":"Otabek Nuritdinov's life path full of twists and turns"
+        }
+    ],
+    "rez":[
+        {
+            "img":"rez1.jpg",
+            "name":"Muhlisa Azizova"
+        },
+        {
+            "img":"rez2.jpg",
+            "name":"Muhlisa Azizova"
+        },
+        {
+            "img":"rez3.jpg",
+            "name":"Muhlisa Azizova"
+        },
+        {
+            "img":"rez4.jpg",
+            "name":"Muhlisa Azizova"
+        },
+        {
+            "img":"rez1.jpg",
+            "name":"Muhlisa Azizova"
+        },
+        {
+            "img":"rez2.jpg",
+            "name":"Muhlisa Azizova"
+        },        {
+            "img":"rez3.jpg",
+            "name":"Muhlisa Azizova"
+        }
+    ],
+    "m_rez":[
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        },
+        {
+            "img":"mrez1.jpg",
+            "name":"Paloncha"
+        }
+    ]
+}

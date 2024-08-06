@@ -1,0 +1,15 @@
+.project-list h1{
+    color: white;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: 700;
+    padding-left: 97px;
+}
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,300px);
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}

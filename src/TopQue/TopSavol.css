@@ -1,0 +1,52 @@
+.top-h1{
+    color: white;
+    padding-bottom: 20px;
+    font-size: 35px;
+    padding-left: 97px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.bg_img{
+    background-image: url(/public/rezmas.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+}
+.bg_img1{
+    background-image: url(/public/sss.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+}
+.bg_img2{
+    background-image: url(/public/kklkl.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+}
+.bg_img3{
+    background-image: url(/public/lll.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+}
+.top-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,300px);
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.pin{
+    color: white;
+    padding-top: 130px;
+    font-size: 20px;
+}

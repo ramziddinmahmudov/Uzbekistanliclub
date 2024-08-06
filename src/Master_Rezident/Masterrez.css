@@ -1,0 +1,32 @@
+.name{
+    color: white;
+    width: 190px;
+    margin: auto;
+}
+.profil1{
+    color: white;
+    padding-bottom: 20px;
+    margin-top: 80px;
+    font-size: 35px;
+    padding-left: 97px;
+    font-weight: 700;
+}
+.grid1{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,400px);
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 25px;
+    img{
+        width: 380px;
+        border-radius: 5px;
+    }
+}
+
+.card{
+    &:hover{
+        transform: scale(1.05);
+        transition: 0.5s;
+    }
+}

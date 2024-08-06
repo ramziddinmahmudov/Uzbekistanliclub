@@ -1,0 +1,23 @@
+.salom_footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+li{
+    color: white;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 30px 30px;
+}
+.pinnat{
+    color: white;
+    width: 50%;
+    text-align: center;
+}

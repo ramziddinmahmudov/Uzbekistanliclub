@@ -1,0 +1,10 @@
+.home{
+    width: 300px;
+    margin: 40px auto;
+    .home_p{
+        color: white;
+    }
+    svg{
+        padding-bottom: 30px;
+    }
+}

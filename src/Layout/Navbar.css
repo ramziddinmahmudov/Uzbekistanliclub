@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    gap: 100px;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    .nav_ul{
+        list-style: none;
+        display: flex;
+        gap: 50px;
+    }
+    li{
+        color: white;
+    }
+    li:hover{
+        transform: scale(1.05);
+        cursor: pointer;
+        color: orange;
+        transition: 0.5s;
+    }
+}

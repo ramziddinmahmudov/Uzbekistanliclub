@@ -111,9 +111,15 @@ function Layout() {
               <Link to="/project">
                 <li>Loyihalar</li>
               </Link>
-              <li>Master Rezedinty</li>
-              <li>Rezidentlar</li>
-              <li>Media Rezedint</li>
+              <Link to="/master">
+                <li>Master Rezedint</li>
+              </Link>
+              <Link to="/rez">
+                <li>Rezidentlar</li>
+              </Link>
+              <Link to="/mrez">
+                <li>Media Rezedint</li>
+              </Link>
             </ul>
           </div>
         </nav>

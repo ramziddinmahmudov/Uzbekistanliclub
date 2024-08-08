@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import About from './Pages/About/About.jsx';
 import Projectss from "./Pages/Projectss/Projects.jsx"
+import All from "./Pages/Masterr/All.jsx"
 
 function App() {
 
@@ -28,6 +29,10 @@ function App() {
           path: "/project",
           element: <Projectss />,
         },
+        {
+          path:"/master",
+          element:<All/>
+        }
       ],
     },
 
